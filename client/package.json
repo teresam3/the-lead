@@ -1,0 +1,41 @@
+{
+  "name": "mern",
+  "version": "0.1.0",
+  "description": "Mern Demo",
+  "private": true,
+  "proxy": "http://localhost:8000/",
+  "secure": false,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "icons": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "radium": "^0.26.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.1.0",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-share": "^4.3.1",
+    "styled-components": "^5.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

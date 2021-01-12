@@ -1,0 +1,13 @@
+@import '../../styles/config';
+
+.main-grid {
+	display: grid;
+	grid-template-rows: 2fr 3fr;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+.picture-background {
+	width: 100%;
+	background: red;
+}
